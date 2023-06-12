@@ -1,0 +1,4 @@
+enum PackageUsgaeStatus {
+  used,
+  notUsed,
+}

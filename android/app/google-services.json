@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "573507791860",
+    "project_id": "zeyarah-backend",
+    "storage_bucket": "zeyarah-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573507791860:android:c68704b9db9dc85de8e7a1",
+        "android_client_info": {
+          "package_name": "link.ahmedsalem.zeyarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573507791860-51sjd86bnl9rifs93ds2ifl785ujobk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "link.ahmedsalem.zeyarah",
+            "certificate_hash": "eedb60882bc8f50c98c251d2d84cfad5fa10276a"
+          }
+        },
+        {
+          "client_id": "573507791860-lqnsio91s25feon1nmaahhtmgrs1acub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxjLH40g83mpeb2jBnRd-4YHJa_domes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573507791860-2b0nadsk1pe5qlkojihs1uu31odkdbbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573507791860-40fl91rdje01dr8b7opvu9g0jcn5ihbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "link.ahmedsalem.zeyarah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
